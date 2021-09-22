@@ -5,5 +5,5 @@
  - **Los dos programas no pueden repetirse consecuentemente**, si quieres traducir otro número, vuelve a encender el programa.
  - Programa intuitivo: las instrucciones se explican al encenderlo haciéndolo sencillo de utilizar.
 
-Si hay algún problema contacta con los colaboradores -->  **JoelAguilellaMolina (J)** y **MariodelaHorraFalomir (M)**
+Si hay algún problema contacta con los colaboradores -->  **JoelAguilellaMolina (J)** y **MariodelaHorraFalomir (M)**.
  
